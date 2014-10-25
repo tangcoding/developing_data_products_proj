@@ -1,0 +1,13 @@
+---
+title: "Superposition of Waves"
+output: html_document
+
+---
+
+This application illustrates the superposition of two waves. The superpostion of waves are important in acoustics. An example can be two musical instruments play together. If the peaks and valleys of two sound waves match up nicely, the "sum" of the sound will sounds naturally good. Otherwise it will sound bad.
+
+**How to Use**
+
+Sound waves are expressed as sin functions: $$A\\sin(2\\pi ft + \\varphi)$$, where $A$, $f$ and $\varphi$ are called amplitude, frequency and phase.You can adjust these three parameters for two waves and watch the superposition of the two waves. Both the superposition and the individual waves are plotted. So you can see how the superposition and shape of individual waves are affected by amplitude, frequency and phase.
+
+Source code is available on the GitHub.
